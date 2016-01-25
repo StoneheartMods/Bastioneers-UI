@@ -6,6 +6,7 @@ It alters the user interface of Stonehearth to be more appropriate for the [Bast
 
 ## Download:
   This mod requires the [Bastioneers Race Mod][race-mod]!
+  
   Version 0.9: https://drive.google.com/open?id=0BzTmOrxgnIzqMzFEWjN0TEphcm8
   
 ## How to install?

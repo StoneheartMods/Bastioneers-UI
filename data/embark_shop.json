@@ -1,0 +1,61 @@
+{
+   "starting_gold" : 150,
+   "shop_items" : [
+      {
+         "display_name" : "i18n(stonehearth:jobs.trapper.trapper_knife.display_name)",
+         "uri" : "stonehearth:trapper:talisman",
+         "icon" : "/stonehearth/jobs/trapper/trapper_knife/trapper_knife.png",
+         "description" : "i18n(stonehearth:jobs.trapper.trapper_description.description)",
+         "cost": 150
+      },
+      {
+         "display_name" : "i18n(bastioneers:entities.weapons.stone_sword.display_name)",
+         "uri" : "bastioneers:footman:stone_sword_talisman",
+         "icon" : "/bastioneers/entities/weapons/stone_sword/stone_sword.png",
+         "description" : "i18n(stonehearth:jobs.footman.footman_description.description)",
+         "cost": 50
+      },
+      {
+         "display_name" : "i18n(stonehearth:jobs.farmer.farmer_hoe.display_name)",
+         "uri" : "stonehearth:farmer:talisman",
+         "icon" : "/stonehearth/jobs/farmer/farmer_hoe/farmer_hoe.png",
+         "description" : "i18n(stonehearth:jobs.farmer.farmer_description.description)",
+         "cost": 50
+      },
+      {
+         "display_name" : "i18n(stonehearth:jobs.herbalist.herbalist_staff.herbalist_staff_talisman.display_name)",
+         "uri" : "stonehearth:herbalist:talisman",
+         "icon" : "/stonehearth/jobs/herbalist/herbalist_staff/herbalist_staff.png",
+         "description" : "i18n(stonehearth:jobs.herbalist.herbalist_description.description)",
+         "cost": 50
+      },
+      {
+         "display_name" : "i18n(stonehearth:jobs.weaver.weaver_spindle.weaver_spindle_talisman.display_name)",
+         "uri" : "stonehearth:weaver:talisman",
+         "icon" : "/stonehearth/jobs/weaver/weaver_spindle/weaver_spindle.png",
+         "description" : "i18n(stonehearth:jobs.weaver.weaver_description.description)",
+         "cost": 50
+      },
+      {
+         "display_name" : "i18n(stonehearth:entities.food.corn.corn_basket.display_name)",
+         "uri" : "stonehearth:food:corn:corn_basket",
+         "icon" : "/stonehearth/entities/food/corn/corn_basket/corn_basket.png",
+         "description" : "i18n(stonehearth:entities.food.corn.corn_basket.description)",
+         "cost": 10
+      },
+      {
+         "display_name" : "i18n(stonehearth:entities.food.pumpkin.pumpkin_basket.display_name)",
+         "uri" : "stonehearth:food:pumpkin:pumpkin_basket",
+         "icon" : "/stonehearth/entities/food/pumpkin/pumpkin_basket/pumpkin_basket.png",
+         "description" : "i18n(stonehearth:entities.food.pumpkin.pumpkin_basket.description)",
+         "cost": 10
+      },
+      {
+         "display_name" : "i18n(stonehearth:entities.food.berries.berry_basket.display_name)",
+         "uri" : "stonehearth:food:berries:berry_serving",
+         "icon" : "/stonehearth/entities/food/berries/berry_basket/berry_basket.png",
+         "description" : "i18n(stonehearth:entities.food.berries.berry_basket.description)",
+         "cost": 10
+      }
+   ]
+}
